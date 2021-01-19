@@ -6,4 +6,5 @@ public class Girl {
     private String userA;
     private String userB;
     private String userAA;
+    private String userAAAA;
 }
