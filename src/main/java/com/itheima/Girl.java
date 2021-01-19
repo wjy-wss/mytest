@@ -5,4 +5,5 @@ public class Girl {
     private int age;
     private String userA;
     private String userB;
+    private String userAA;
 }
